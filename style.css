@@ -1,8 +1,23 @@
 div {
-    text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: goldenrod;
+    width: 50%;
+}
+
+.grigio {
     background-color: rgb(224, 223, 223);
 }
+
 .centrata {
+    text-align: center;
     margin-left: auto;
-    margin-right:auto;
+    margin-right: auto;
+}
+
+h3 {
+    color: goldenrod;
+}
+
+h4 {
+    font-style: italic;
 }
