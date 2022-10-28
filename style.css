@@ -9,9 +9,13 @@ div {
 }
 
 .centrata {
-    text-align: center;
+
     margin-left: auto;
     margin-right: auto;
+}
+
+.testocentrato {
+    text-align: center;
 }
 
 h3 {
